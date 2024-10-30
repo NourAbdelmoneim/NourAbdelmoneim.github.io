@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be presenting at the AGU23 Fall Meeting
+I presented our work on interpretable machine learning for Mars climate modeling at the AGU23 Fall Meeting
