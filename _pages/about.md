@@ -19,6 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a Research Assistant working with [Professor Keith Ross](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/keith-ross.html) at New York University Abu Dhabi. My work focuses on using deep learning for controllable music source separation and generation. Before this, I pursued my undergraduate studies in Computer Science at NYU Abu Dhabi, where my thesis research centered on adversarial machine learning for safeguarding users' privacy. My current research interests broadly lie in developing machine learning models for medical and music applications, with an underlying goal of focusing on communities and cultures that are underrepresented in science. 
+Hello! I'm a Research Assistant working with [Professor Keith Ross](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/keith-ross.html) at New York University Abu Dhabi. My work focuses on using deep learning for controllable music source separation and generation. 
+
+Before this, I pursued my undergraduate studies in Computer Science at NYU Abu Dhabi, where my thesis research centered on adversarial machine learning for safeguarding users' privacy. 
+
+My current research interests broadly lie in developing machine learning models for medical and music applications, with an underlying goal of focusing on communities and cultures that are underrepresented in science. 
 
 Beyond research, I play classical piano and love exploring the historical and cultural nuances of Western and Arabic classical music.
