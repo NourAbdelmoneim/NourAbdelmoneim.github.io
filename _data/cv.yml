@@ -12,22 +12,27 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Center for Space Science
-      year: 2022 - Present
-      description:
-        - Using machine learning to model the climate of Mars
+      institution: Department of Computer Science, NYU Abu Dhabi
+      year: 2024 - Present
+      # description:
+      #   - Developing interpretable machine learning for Mars climate modeling
+
+    - title: Research Assistant
+      institution: Center for Astrophysics Space Science, NYU Abu Dhabi
+      year: 2022 - 2024
+
     - title: Undergraduate Researcher
-      institution: Data Science and AI Lab
+      institution: Data Science and AI Lab, NYU Abu Dhabi
       year: 2021 - 2022
-      description:
-        - Implemented adversarial examples to protect private user information that can be inferred by AI.
+      # description:
+      #   - Implemented adversarial examples to protect private user information that can be inferred by AI.
 
     - title: Machine Learning Research Intern
       institution: Group42
       year: Summer 2021
 
     - title: Machine Learning and Computational Analysis Research Assistant
-      institution: Music and Sound Cultures Research Group
+      institution: Music and Sound Cultures Research Group, NYU Abu Dhabi
       year: 2020 - 2021
       description:
 
