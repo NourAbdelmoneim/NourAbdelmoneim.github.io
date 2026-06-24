@@ -19,10 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a Research Assistant working with [Professor Keith Ross](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/keith-ross.html) at New York University Abu Dhabi. My work focuses on using deep learning for controllable music source separation and generation. 
+Hello! I'm a Computer Science PhD student at the University of California, Santa Barbara, advised by [Prof. Yao Qin] (https://yaoqin1.github.io) and [Prof. Wenbo Guo] (https://henrygwb.github.io). My current research explores how large language models can be trained for scientific and numerical prediction tasks through reinforcement learning, with applications to healthcare and Type 1 diabetes management.
 
-Before this, I pursued my undergraduate studies in Computer Science at NYU Abu Dhabi, where my thesis research centered on adversarial machine learning for safeguarding users' privacy. 
+Prior to this, I was a Research Assistant working with [Prof. Keith Ross](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/keith-ross.html) at New York University Abu Dhabi, where my work focused on using deep learning for controllable music source separation and generation. I did my undergraduate studies at NYU Abu Dhabi, where my thesis research centered on adversarial machine learning for safeguarding users' privacy. 
 
-My current research interests broadly lie in developing machine learning models for medical and music applications, with an underlying goal of focusing on communities and cultures that are underrepresented in science. 
-
-Beyond research, I play classical piano and love exploring the historical and cultural nuances of Western and Arabic classical music.
+Beyond research, I love playing the piano, tennis, and going on hikes around the SB area!
